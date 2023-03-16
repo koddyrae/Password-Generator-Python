@@ -8,3 +8,4 @@ Works in 3 stages
 3. Generate the password
 
 The project does this using for loops and the Random module of Python
+- Loosely following along with video from FreeCodeCamp youtube video
